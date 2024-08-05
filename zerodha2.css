@@ -1,3 +1,6 @@
 *{
     font-family: Arial , sans-serif;
 }
+header a:hover{
+    color: blue;
+}
